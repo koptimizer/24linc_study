@@ -5,11 +5,12 @@
 </br>
 
 ### Modeling with Gurobi
-1. <b>하기 4종류의 Location problem의 일반적인 mathmatical model을 gurobi로 구현하고, 차이점을 정리하라.</b>
+1. <b>하기 4종류의 Location problem을 이해하고, 차이점을 정리하라.</b>
    1. P-median
    2. P-center
    3. Set covering
-   4. Fixed-cost Facility Location
+   4. Maximal covering
+   5. Fixed-charge location problem
    
 2. <b>Multi-Depot Capaciated Vehicle Routing Problem을 위한 problem generator 및 mathmatical model을 gurobi로 구현하라.</b> 
    1. Node는 depot, customer로 구성되고, 요소 각각 여러개가 배치될 수 있다.
