@@ -19,7 +19,7 @@
    4. 각 vehicle은 동일한 capacity $c$ 를 가지며, 이동거리에 비례해서 비용이 발생한다.
    5. 각 customer의 demand는 1이며, 단 한개의 depot과 vehicle만 할당받는다.
    7. 목표는 비용의 최소화이다.
-   8. Problem Generator에서는 depot은 2~5, customer node는 10~100까지 설정이 가능해야하며, 문제에 포함되는 각 파라미터를 조정할 수 있어야 한다.
+   8. Problem Generator에서는 depot은 2-5, customer node는 10-100까지 설정이 가능해야하며, 문제에 포함되는 각 파라미터를 조정할 수 있어야 한다.
    9. LP 파일을 뽑아서 이를 해석할 수 있어야 한다.
   
 2. <b>Multi-Depot Capaciated Vehicle Routing Problem을 위한 Genetic Algorithm(GA)을 구현하라.</b> 
